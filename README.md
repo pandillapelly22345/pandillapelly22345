@@ -1,16 +1,15 @@
-## Hi there 👋
+## ✨ Hi, I'm Harshvardhini!
 
 <!--
-**pandillapelly22345/pandillapelly22345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
+- 🏫 I'm in my 2nd year CSE program at IIIT Delhi.
+- 🌱 I’m currently learning Full Stack Web Development.
+- 👯 I’m looking to collaborate on making cool projects.
+- 💬 Ask me about Web development, Java. 
+- 📫 How to reach me: [My Instagram](https://www.instagram.com/haaaarshu_1039).
+- ⚡ Fun fact: Always feeling sleepy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Harshvardhini's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandillapelly22345&hide=stars&count_private=true&show_icons=true&theme=gotham)
+![Nikhil's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandillapelly22345&theme=gotham&layout=compact)

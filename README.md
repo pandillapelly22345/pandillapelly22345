@@ -2,6 +2,7 @@
 
 <!--
 **is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Harshvardhini's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandillapelly22345&hide=stars&count_private=true&show_icons=true&theme=gotham)
 
 Here are some ideas to get you started:-->
 - 🏫 I'm in my 3rd year CSE program at IIIT Delhi.
@@ -11,5 +12,4 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: [My Instagram](https://www.instagram.com/haaaarshu_1039).
 - ⚡ Fun fact: Always feeling sleepy.
 
-![Harshvardhini's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandillapelly22345&hide=stars&count_private=true&show_icons=true&theme=gotham)
 ![Harshvardhini's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandillapelly22345&theme=gotham&layout=compact)

@@ -12,6 +12,9 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: [My Instagram](https://www.instagram.com/haaaarshu_1039).
 - ⚡ Fun fact: Always feeling sleepy.
 
+<br><br>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+
 <!--![Harshvardhini's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandillapelly22345&theme=gotham&layout=compact) -->
 
 ## My Stats

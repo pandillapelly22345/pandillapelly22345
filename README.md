@@ -9,8 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate on making cool projects.
 - 💬 Ask me about Web development, Java. 
-- 📫 How to reach me: [My Instagram](https://www.instagram.com/haaaarshu_1039).
-- ⚡ Fun fact: Always feeling sleepy.
+- 📫 How to reach me: [My Instagram](https://www.instagram.com/harshvardhini_09/#).
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 

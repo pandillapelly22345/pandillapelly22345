@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about Web development, Java. 
 - 📫 How to reach me: [My Instagram](https://www.instagram.com/haaaarshu_1039).
 - ⚡ Fun fact: Always feeling sleepy.
-
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 

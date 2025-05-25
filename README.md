@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=pandillapelly22345&label=Visitors&theme=radical" />
 ## ✨ Hi, I'm Harshvardhini!
 
 <!--

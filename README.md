@@ -14,12 +14,7 @@ Here are some ideas to get you started:-->
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 <!--![Harshvardhini's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandillapelly22345&theme=gotham&layout=compact) -->
-</a>
-    <a><h2>Trophies</h2></a>
-    <a href="https://github.com/pandillapelly22345">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=pandillapelly22345&row=4&theme=radical&no-frame=true"/>
-    </a>    
-</a>
+
 
 ## My Stats
 <p>
@@ -28,3 +23,10 @@ Here are some ideas to get you started:-->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pandillapelly22345&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
+
+</a>
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/pandillapelly22345">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=pandillapelly22345&row=4&theme=radical&no-frame=true"/>
+    </a>    
+</a>

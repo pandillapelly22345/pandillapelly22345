@@ -16,13 +16,13 @@ Here are some ideas to get you started:-->
 <!--![Harshvardhini's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandillapelly22345&theme=gotham&layout=compact) -->
 
 
-## My Stats
-<p>
-<a href="https://github.com/pandillapelly22345">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandillapelly22345&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pandillapelly22345&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
+<!-- ## My Stats -->
+<!-- </p> -->
+<!-- <a href="https://github.com/pandillapelly22345"> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandillapelly22345&show_icons=true&theme=radical" /> -->
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pandillapelly22345&theme=radical&layout=compact&exclude_lang=java+r" /> -->
+<!-- </a> -->
+<!-- </p> -->
 
 </a>
     <a><h2>Trophies</h2></a>
